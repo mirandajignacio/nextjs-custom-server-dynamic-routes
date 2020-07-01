@@ -1,0 +1,1 @@
+{"name":"nextjs-custom-server-dynamic-routes","version":"0.0.1","scripts":{"dev":"node server.js","build":"next build","start":"cross-env NODE_ENV=production node server.js"},"dependencies":{"cross-env":"^7.0.2","express":"^4.17.1","next":"latest","react":"^16.13.1","react-dom":"^16.13.1"},"readme":"ERROR: No README data found!","_id":"nextjs-custom-server-dynamic-routes@0.0.1"}
